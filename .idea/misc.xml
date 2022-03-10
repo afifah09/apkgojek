@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/banner.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/bayangan.xml" value="0.1915" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/bintang.xml" value="0.1915" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/cashback_blue.xml" value="0.1915" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/chat.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/diskonbawah.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/header_background.xml" value="0.1155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/header_blue.xml" value="0.1155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/home.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1915" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/icon_domgopay.xml" value="0.1155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/search_background.xml" value="0.1155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/tasks.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/tokped.xml" value="0.171" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
